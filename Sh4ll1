@@ -1,0 +1,8 @@
+Using IDA.
+
+In function _Z7systemvv 3 variables have their value assigned.
+In functin _Z7systemov this variables are used in a couple of operations. 
+The password is the result of this operations.
+
+
+The password is 540. 
